@@ -8,7 +8,7 @@
 
 📕 **My Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,ts,go,prisma,tailwind,c,cpp,cs,python,java,firebase,vscode,rust,apple,linux&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,ts,go,prisma,tailwind,c,rust,cpp,cs,python,java,firebase,vscode,apple,linux&perline=7)](https://skillicons.dev)
 
 ---
 ```javascript
