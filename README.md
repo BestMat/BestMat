@@ -1,4 +1,5 @@
-# BestMat
+<h1 align="center">🔥 BestMat 🔥</h1>
+
 👋 Hello! I am **Yuvanth B**, a **twelve** year old computer nerd.
 
 🔥 I started learning **JavaScript** at the age of 6. Now, I'm making a compiler, a backend SaaS platform and rewriting Vim in C.
