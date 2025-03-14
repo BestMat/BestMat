@@ -2,7 +2,7 @@
 
 👋 Hello! I am **Yuvanth B**, a **twelve** year old computer enthusiast.
 
-🔥 I started learning **JavaScript** at the age of 6. Now, I'm making a **compiler**, a **backend** SaaS platform and rewriting **Vim** in C.
+🔥 I started learning **JavaScript** at the age of 6. Now, I'm making a **compiler**.
 
 💻 Currently working on a compiler. **(With Rust and LLVM)**
 
