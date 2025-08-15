@@ -10,7 +10,7 @@ I usually program in C.
 
 **My Skills, Tools and Languages:**
 
-<img src="https://skillicons.dev/icons?i=js,rust,c,cpp,go,ts,ocaml,linux,vim,neovim,apple,docker,git,bash,python,java,nodejs,react,electron,tauri,zig&perline=7"></img>
+<img src="https://skillicons.dev/icons?i=js,rust,c,cpp,go,ts,linux,vim,apple,docker,git,bash,python,java,nodejs,react,electron&perline=7"></img>
 
 ---
 
