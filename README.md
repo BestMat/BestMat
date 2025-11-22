@@ -1,11 +1,12 @@
 <div align="center">
   <h1>👋 I'm Yuvanth B</h1>
-  <h3>A 13 year old software and computer science enthusiast!</h3>
+  <h3>A software and computer science enthusiast!</h3>
 </div>
 
-* I am programming an **operating system** and a **compiler** for my custom C-like language as my main projects.
-* I am currently in 8th Grade.
-* I like mathematics, computer data structures and algorithms, machine learning and low level concepts. I am learning x86_64 Assembly.
+* My main projects right now include building an **operating system** and developing a **compiler** for my own C-like programming language.
+* I am currently studying in **8th Grade**.
+* I enjoy mathematics, data structures and algorithms, machine learning, and low-level system concepts.
+* I am also learning **x86_64 assembly**.
 * I won several competitions in programming such as:
 
 1. [**First place at IIT Madras E-Cell E21**](https://ecell.iitm.ac.in/images/e21/e21,5.jpg): I won the **first prize** at E21, an entreprenuship and programming competition held at **Indian Institute of Technology Madras**, Chennai, the top-most university in India*. I got **₹35,000 ($390 USD)** as the reward. 
