@@ -3,10 +3,10 @@
   <h3>A software and computer science enthusiast!</h3>
 </div>
 
-* My main projects right now include building an **operating system** and developing a **compiler** for my own C-like programming language.
-* I am currently studying in **8th Grade**.
-* I enjoy mathematics, data structures and algorithms, machine learning, and low-level system concepts.
-* I am also learning **x86_64 assembly**.
+* I study and enjoy learning computer science data structures and algorithms (graph theory, dynamic programming, machine learning, etc.) and love programming.
+
+* I am **14 years old** and studying in **9th Grade**.
+* My dream is to create an operating system in my own self-hosted programming language.
 * I won several competitions in programming such as:
 
 1. [**First place at IIT Madras E-Cell E21**](https://ecell.iitm.ac.in/images/e21/e21,5.jpg): I won the **first prize** at E21, an entreprenuship and programming competition held at **Indian Institute of Technology Madras**, Chennai, the top-most university in India*. I got **₹35,000 ($390 USD)** as the reward. 
@@ -17,6 +17,7 @@
 > *: according to **[NIRF Ranking](https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html#:~:text=Indian%20Institute%20of%20Technology%20Madras)**
 
 <div align="center">
-  <h3>My Skills:</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,js,py,java,nodejs,ts,react,zig,haskell,linux,apple,git,docker,emacs,vim&perline=6" />
+  <h3>My Skills</h3>
+  <p>(languages and tools)</p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,nodejs,react,linux,apple,git,docker,emacs,vim&perline=5" />
 </div>
